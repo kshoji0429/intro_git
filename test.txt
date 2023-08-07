@@ -1,2 +1,4 @@
 aaaaaa
 bbbbbb
+.git add
+.git commit
