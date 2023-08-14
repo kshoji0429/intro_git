@@ -4,3 +4,4 @@ bbbbbb
 .git commit
 .git rm
 .git status
+aaaa
