@@ -5,3 +5,4 @@ bbbbbb
 .git rm
 .git status
 aaaa
+.git diff
